@@ -1,0 +1,11 @@
+kitten_exhibition/settings.py
+.pytest_cache/
+Lib/
+Scripts/
+venv/
+__pycache__/
+.idea/
+.idea/workspace.xml
+*.xml
+*.pyc
+*.cfg
